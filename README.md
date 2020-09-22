@@ -6,7 +6,7 @@ A hierarchy of "smooth" cubedsphere grids may be generated using "Optimal Delaun
 
 ### `Quickstart`
 
-`Icosahedron` requires the `JIGSAW` meshing package be installed. `JIGSAW`'s `Python` interface is available <a href="https://github.com/dengwirda/jigsaw-python">here</a>. Once installed, the example problem can be run via:
+`Cubedsphere` requires the `JIGSAW` meshing package be installed. `JIGSAW`'s `Python` interface is available <a href="https://github.com/dengwirda/jigsaw-python">here</a>. Once installed, the example problem can be run via:
 
     clone/download + unpack this repository.
     python3 run.py
